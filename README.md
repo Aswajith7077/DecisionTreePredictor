@@ -170,5 +170,3 @@ The Output generated is a code and an image representing the decision tree and t
 For queries or contributions, reach out at **[aswajith707@gmail.com](mailto:aswajith707@gmail.com)**.
 
 ---
-
-Let me know if you need additional sections or refinements!
